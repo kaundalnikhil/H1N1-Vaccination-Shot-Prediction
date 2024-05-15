@@ -7,7 +7,7 @@ Then the DAT file was decoded by using the r program provided on the website.<br
 After that the rdata file was converted to csv (included in rdata_to_csv.ipynb).<br>
 Of the 170+ features, 39 were selected manually.<br>
 7 of them are behaviour indicators,  3 are opinion indicators, 6 are related to concern towards the virus, 5  are related to the level of knowledge of H1N1 virus, and 17 are related to demographics.<br>
-The selection of these features could have impaced a lot towards the prediction of the target variable.
+The selection of these features could have impaced a lot towards the prediction of the target variable.<br>
 Vaccination.ipynb contains the first attempt<br>
 Vaccination_final_iteration.ipynb contains the final code.<br>
 
